@@ -1,0 +1,24 @@
+@import url('./reset.scss');
+
+
+.hide{
+    width: 0; height: 0;
+    position: absolute; line-height: 0;
+    display: none;
+}
+
+.a{
+    color: black;
+}
+
+.wrap{
+
+    .main{
+
+        aside{}
+
+        header{}
+
+    }
+
+}
